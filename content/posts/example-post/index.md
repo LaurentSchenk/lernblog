@@ -1,10 +1,10 @@
 +++
-title = "Example Post"
+title = "Reportage SLRG"
 date = "2022-11-30"
-draft = false
+draft = true
 pinned = false
-tags = ["Example", "Lernblog"]
-image = "/img/default-image.jpg"
+tags = []
+image = "slrg_logo_de_rgb.png"
 description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
 footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
