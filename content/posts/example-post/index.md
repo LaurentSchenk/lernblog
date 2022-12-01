@@ -1,5 +1,5 @@
 +++
-title = "Rettung im Wasser"
+title = "Reportage SLRG"
 date = "2022-11-30"
 draft = false
 pinned = false
