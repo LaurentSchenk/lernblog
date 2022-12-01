@@ -11,6 +11,8 @@ footnotes = ""
 {{<lead>}}
 
 Wie verhindert man Todesfälle im Wasser? Das und noch viel mehr durften wir während eines SLRG-Kurses für Rettungsschwimmer lernen.
+
+
 {{</lead>}}
 
 
