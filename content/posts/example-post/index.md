@@ -73,10 +73,10 @@ Als unsere kurze Mittagspause zu Ende ist, geht der Tag mit einem Theorieteil im
 
 Bevor man ins Wasser springt, um einer ertrinkenden Person zu helfen, sollte man sich seinen eigenen Grenzen und Fähigkeiten bewusst sein. Barbara sagt uns ganz klar: «Begebt euch nicht selbst in Gefahr, ansonsten müssen 2 Personen gerettet werden“. Wer keine Ausbildung im Rettungsschwimmen hat, das Wasser zu kalt ist oder die ertrinkende Person wild um sich schlägt, sollte nicht ins Wasser steigen. In diesem Fall hilft man aber, indem man sofort die Polizei anruft. Zur gleichen Zeit sollte versucht werden, am Ufer auf Höhe der Person mitzulaufen, um der Polizei immer den aktuellen Standort melden zu können. Den Standort kann man der Polizei z.B. über die Koordinatenangaben der Rega-App mitteilen. Zudem sollen die weiteren Anweisungen der Polizei befolgt werden.
 
+{{</box>}}
+
 > «Begebt euch nicht selbst in Gefahr»
 >
 > *Barbara von Steiger, Rettungsschwimmerin*
-
-{{</box>}}
 
 Als zweitletzten Teil unseres Kurses repetieren wir die Erste-Hilfe Maßnahmen in Bezug auf Wasser. Dabei lernen wir, dass eine bewusstlose Person immer vom Wasser weggedreht werden muss, weil der Anblick von Wasser beim Aufwachen Panik verursachen kann. Zudem üben wir die korrekte Autoren: Laurent Schenk, Léon Sermet Anwendung eines Spineboards. Es dient dazu eine Person wirbelsäulenschonend aus dem Wasser zu bergen. Die verunfallte Person wird auf das schwimmende Spineboard platziert und mit Bändern festgebunden. Anschließend hebt oder zieht der Rettungsschwimmer die Person vorsichtig aus dem Wasser. Während dieser Übung merken wir, dass es langsam kühler wird und sich der Tag dem Ende zuneigt. Um alles Gelernte nochmals zu repetieren, hat Barbara ein Fallbeispiel für uns vorbereitet. In dieser Simulation ist die ganze Gruppe körperlich und geistig sehr gefordert. Wir erhalten alle eine Rolle wie z.B. Bademeister, Gaffer oder Opfer zugewiesen. Damit spielen wir das Szenario eines ertrinkenden Kindes nach. Alle Teilnehmer sind sehr engagiert, vor allem die verzweifelte Mutter, die ihr Kind nicht loslassen will und somit den Bademeistern die Arbeit erschwert. Nachdem wir auch diesen Teil als Gruppe gemeinsam beendet haben, verabschieden wir uns erschöpft von den anderen Teilnehmern und danken Barbara für den informativen, lehrreichen und anstrengenden Tag.
