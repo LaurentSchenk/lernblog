@@ -67,7 +67,7 @@ Als unsere kurze Mittagspause zu Ende ist, geht der Tag mit einem Theorieteil im
 
 ![Baderegeln SLRG; Quelle: SLRG-Homepage](bild4.jpg)
 
-![Theorieteil unserer Ausbildung (04.09.2022) (Bild: Léon Sermet)](bild5.jpg)
+![Theorieteil unserer Ausbildung (04.09.2022) (Bild: Léon Sermet)](bild5-1-.jpg)
 
 {{<box title="Was soll man tun, wenn man eine ertrinkende Person sieht?">}}
 
