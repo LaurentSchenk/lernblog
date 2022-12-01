@@ -4,7 +4,7 @@ date = "2022-11-30"
 draft = false
 pinned = false
 tags = []
-image = ""
+image = "logo-slrg.png"
 description = ""
 footnotes = ""
 +++
