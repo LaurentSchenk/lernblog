@@ -43,7 +43,7 @@ Neben einem BLS-AED-SRC-Zertifikat (ein Kurs, der die lebensrettenden Maßnahmen
 
 In der Schweiz ertrinken gemäß Statistiken der SLRG pro Jahr durchschnittlich 45 Personen. Zu einem großen Teil passieren Todesfälle in Seen und Flüssen. Einerseits sind Seen und Fließgewässer meistens unbewacht, andererseits werden sie auch sehr oft unterschätzt. Unterschätz werden die Wassertemperaturen, denn schon ab einer Temperatur von 15°C kann es schnell zu Krämpfen oder sogar Bewusstlosigkeit kommen. Andererseits werden auch Strömungen in Flüssen oder Seen häufig unterschätzt. In der Schweiz ertrinken hauptsächlich Männer. Barbara erklärt uns, dass Männer sich häufiger überschätzen und auch häufiger unter dem Konsum von Alkohol oder Drogen baden gehen. Obwohl man in den Medien immer wieder hört, dass viele Touristen oder Migranten ertrinken, machen diese nur 14% der ertrinkenden Menschen in der Schweiz aus. Meistens ertrinken Schweizer, welche die Gewässer zwar seit ihrer Kindheit kennen, sich jedoch überschätzen und sich unnötig in Gefahr bringen. Im Wasser sterben aber nicht nur Erwachsene, sondern auch Kleinkinder, aufgrund unzureichender Beaufsichtigung. Ertrinken bleibt auch im Jahr 2021 die zweithäufigste UnfallTodesursache bei Kindern. Zu den vielen tödlichen Ertrinkungsunfällen kommen noch zahlreiche Fälle von Beinahe-Ertrinken hinzu, die bei Kindern und Erwachsenen schwerwiegende Auswirkungen auf das weitere Leben haben können.
 
-![Ertrinkungsstatistik 2021; Quelle: SLRG-Website](bild2.png)
+![Ertrinkungsstatistik 2021; Quelle: SLRG-Website](bild2-1-.png)
 
 ### Wie können wir eine ertrinkende Person aus dem Wasser bergen?
 
