@@ -1,5 +1,5 @@
 +++
-title = "Reportage SLRG"
+title = "Rettung im Wasser"
 date = "2022-11-30"
 draft = false
 pinned = false
@@ -12,8 +12,6 @@ footnotes = ""
 
 Wie verhindert man Todesfälle im Wasser? Das und noch viel mehr durften wir während eines SLRG-Kurses für Rettungsschwimmer lernen.
 {{</lead>}}
-
-# Rettung im Wasser
 
 Leben retten ist lernbar – Jeder Schwimmer ein Rettungsschwimmer!
 
