@@ -1,6 +1,6 @@
 +++
 title = "Rettung im Wasser"
-date = "2022-11-30"
+date = "2022-12-02"
 draft = false
 pinned = false
 tags = []
