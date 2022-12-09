@@ -9,5 +9,3 @@ description = ""
 ## Laurent Schenk
 
 laurent.schenk@mygymer.ch
-
-Here should be some info about me...
