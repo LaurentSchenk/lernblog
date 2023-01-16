@@ -4,6 +4,7 @@ date = "2023-01-09"
 draft = false
 pinned = false
 tags = ["französisch", "lektüre", "francophonie"]
+image = "screenshot-62-.png"
 +++
 {{<lead>}}
 
