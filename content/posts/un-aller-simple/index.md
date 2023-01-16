@@ -28,7 +28,7 @@ L’auteur de ce livre est Didier van Cauwelaert.
 ### 
 
 
-**Résume**
+Résume
 
 Le roman raconte l'histoire d'Aziz, qui a grandi avec des gitans dans les quartiers nord de Marseille. Il a perdu ses parents dans un accident de voiture, c'est pourquoi les véritables origines d'Aziz restent un mystère. 
 Le jour de ses fiançailles, on dit qu'il a volé son cadeau de mariage. Comme il a de faux papiers et qu'il a la peau noire, il est "identifié" comme un immigrant marocain illégal. Les autorités veulent l'expulser vers son pays d'origine. 
