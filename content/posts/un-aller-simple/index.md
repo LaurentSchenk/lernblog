@@ -1,6 +1,6 @@
 +++
 title = "Un aller simple"
-date = "2023-01-09"
+date = "2023-01-16"
 draft = false
 pinned = false
 tags = ["französisch", "lektüre", "francophonie"]
@@ -25,16 +25,17 @@ L’auteur de ce livre est Didier van Cauwelaert.
 
 {{</box>}}
 
-
+### 
 
 
 **Résume**
+
 Le roman raconte l'histoire d'Aziz, qui a grandi avec des gitans dans les quartiers nord de Marseille. Il a perdu ses parents dans un accident de voiture, c'est pourquoi les véritables origines d'Aziz restent un mystère. 
 Le jour de ses fiançailles, on dit qu'il a volé son cadeau de mariage. Comme il a de faux papiers et qu'il a la peau noire, il est "identifié" comme un immigrant marocain illégal. Les autorités veulent l'expulser vers son pays d'origine. 
 Pour convaincre l'opinion publique, un "attaché humanitaire", un agent d'intégration, a été nommé pour aider Aziz à se réintégrer dans son "pays d'origine". La situation devient de plus en plus instable et se dégrade à tel point qu'Aziz doit s'occuper de l'"attaché humanitaire", qui devient de plus en plus le personnage principal. 
 La situation devient de plus en plus instable et se dégrade à tel point qu'Aziz doit s'occuper de "l'attaché humanitaire" qui devient de plus en plus le personnage principal.
 
-
+### 
 **Citation**
 
 >
@@ -44,7 +45,7 @@ La situation devient de plus en plus instable et se dégrade à tel point qu'Azi
 
 Le livre "un aller simple" traite d'un sujet d'actualité. Aziz, le personnage principal, n'a pas connaît de ses origines. La difficulté de trouver une identité en tant que migrant. Aziz est expulsé vers un autre pays, car il n'a pas d'autorisation de séjour. A la page 43, lignes 6 à 10, Aziz dit qu'il ne veut pas recommencer en tant qu'étranger dans un autre pays. Les immigrants sont simplement expulsés s'ils n'ont pas de papier officiel de l'endroit où ils ont grandi. Il est difficile pour un étranger de se construire une vie dans un nouveau pays.
 
-**Extrait**
+### **Extrait**
 
 >
 > « Avant-hier matin, je prenais tranquillement l’apéritif de mes fiançailles, et
@@ -54,5 +55,6 @@ Le livre "un aller simple" traite d'un sujet d'actualité. Aziz, le personnage p
 > l’autre, et pourtant on se ressemblait. C’était un peu notre revanche. »
 > (p.75)
 
-**Avis**
+### **Avis**
+
 C'est un livre intéressant qui trait te de sujets d'actualité. Le texte est compréhensible et bien écrit. Il n'est pas nécessaire de parler un français avancé pour comprendre le texte. Dans le livre, les mots difficiles sont traduits. Le livre a des personnages bien écrits. On comprend leurs points de vue, leurs problèmes et on peut éprouver de l'empathie pour eux.
