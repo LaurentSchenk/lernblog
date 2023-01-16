@@ -25,7 +25,7 @@ L’auteur de ce livre est Didier van Cauwelaert.
 
 {{</box>}}
 
-### 
+## 
 
 
 Résume
